@@ -1,3 +1,5 @@
+Based off of [ashen.nvim](https://github.com/ficd0/ashen.nvim)
+
 Yazi (My file manager):
 ![](images/Yazi.png)
 
